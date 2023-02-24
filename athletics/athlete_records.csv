@@ -1,0 +1,48 @@
+Event,Perf.,mph,km/h,Athlete(s),Athlete_Nationality,Date,Meeting,Location,Country
+100 m,9.58,23.35,37.58,Usain Bolt,JAM,16 Aug 2009,World Championships,Berlin,GER
+200 m,19.19,23.31,37.52,Usain Bolt,JAM,20 Aug 2009,World Championships,Berlin,GER
+400 m,43.03,20.79,33.47,Wayde van Niekerk,RSA,14 Aug 2016,Olympic Games,Rio de Janeiro,BRA
+800 m,1:40.91,17.734,28.54,David Rudisha,KEN,9 Aug 2012,Olympic Games,London,GBR
+1000 m,2:11.96,16.952,27.281,Noah Ngeny,KEN,5 Sep 1999,Rieti Meeting,Rieti,ITA
+1500 m,3:26.00,16.288,26.214,Hicham El Guerrouj,MAR,14 Jul 1998,Golden Gala,Rome,ITA
+Mile,3:43.13,16.134,25.965,Hicham El Guerrouj,MAR,7 Jul 1999,Golden Gala,Rome,ITA
+2000 m,4:44.79,15.709,25.282,Hicham El Guerrouj,MAR,7 Sep 1999,ISTAF,Berlin,GER
+3000 m,7:20.67,15.229,24.508,Daniel Komen,KEN,1 Sep 1996,Rieti Meeting,Rieti,ITA
+5000 m,12:35.36,14.807,23.83,Joshua Cheptegei,UGA,14 Aug 2020,Herculis,Monaco,MON
+5 km (road),12:49.00,14.54,23.41,Berihu Aregawi,ETH,31 Dec 2021,Cursa dels Nassos,Barcelona,ESP
+"10,000 m",26:11.00,14.239,22.915,Joshua Cheptegei,UGA,7 Oct 2020,,Valencia,ESP
+10 km (road),26:24.00,14.12,22.73,Rhonex Kipruto,KEN,12 Jan 2020,10K Valencia Ibercaja,Valencia,ESP
+Half marathon,57:31.00,13.67,22.01,Jacob Kiplimo,UGA,21 Nov 2021,EDP Lisbon Half Marathon,Lisbon,POR
+One hour (track),"21,330 m",13.254,21.33,Mo Farah,GBR,4 Sep 2020,Diamond League,Brussels,BEL
+Marathon[a],2:01:09,12.985,20.897,Eliud Kipchoge,KEN,25 Sep 2022,Berlin Marathon,Berlin,GER
+Marathon[a],1:59:40.2,13.136,21.156,Eliud Kipchoge,KEN,12 Oct 2019,Ineos 1:59 Challenge,Vienna,AUT
+50 km (road),2:40:13.00,11.63,18.72,Stephen Mokoka,RSA,6 March 2022,Nedbank Runified 50km,Gqeberha,RSA
+50 km (road),2:38:43.00,11.74,18.9,CJ Albertson,USA,8 October 2022,Ruth Anderson Memorial Endurance Run,San Francisco,USA
+100 km (road),6:09:14.00,10.097,16.25,Nao Kazami,JPN,24 Jun 2018,Lake Saroma Ultramarathon,Yūbetsu,JPN
+110 m hurdles,12.80,19.22,30.94,Aries Merritt,USA,7 Sep 2012,Memorial Van Damme,Brussels,BEL
+400 m hurdles,45.94,19.477,31.345,Karsten Warholm,NOR,3 Aug 2021,Olympic Games,Tokyo,JPN
+3000 m steeplechase,7:53.63,14.169,22.803,Saif Saaeed Shaheen,QAT,3 Sep 2004,Memorial Van Damme,Brussels,BEL
+3000 m steeplechase,7:53.17,14.183,22.825,Brahim Boulami,MAR,16 Aug 2002,Weltklasse Zürich,Zürich,SUI
+High jump,2.45 m,,,Javier Sotomayor,CUB,27 Jul 1993,Gran Premio Diputación,Salamanca,ESP
+Pole vault,6.21 m,,,Armand Duplantis,SWE,24 Jul 2022,World Championships,Eugene,USA
+Long jump,8.95 m,,,Mike Powell,USA,30 Aug 1991,World Championships,Tokyo,JPN
+Triple jump,18.29 m,,,Jonathan Edwards,GBR,7 Aug 1995,World Championships,Gothenburg,SWE
+Shot put,23.37 m,,,Ryan Crouser,USA,18 June 2021,United States Olympic Trials,Eugene,USA
+Discus throw,74.08 m,,,Jürgen Schult,GDR,6 Jun 1986,,Neubrandenburg,GDR
+Hammer throw,86.74 m,,,Yuriy Sedykh,URS,30 Aug 1986,European Championships,Stuttgart,FRG
+Javelin throw,98.48 m,,,Jan Železný,CZE,25 May 1996,,Jena,GER
+Decathlon,9126 pts,,,Kevin Mayer,FRA,16 Sep 2018,Décastar,Talence,FRA
+"20,000 m walk (track)",1:17:25.60,9.63,15.499,Bernardo Segura,MEX,7 May 1994,,Bergen,NOR
+20 km walk (road),1:16:36.00,9.734,15.666,Yusuke Suzuki,JPN,15 Mar 2015,Asian Race Walking Championships,Nomi,JPN
+2 hours walk (track),"29,572 m",9.188,14.786,Maurizio Damilano,ITA,3 Oct 1992,,Cuneo,ITA
+"30,000 m walk (track)",2:01:44.10,9.188,14.786,Maurizio Damilano,ITA,3 Oct 1992,,Cuneo,ITA
+35 km walk (road),2:22:00.00,,,,,,,,
+"50,000 m walk (track)",3:35:27.20,8.652,13.924,Yohann Diniz,FRA,12 Mar 2011,,Reims,FRA
+50 km walk (road),3:32:33.00,8.77,14.114,Yohann Diniz,FRA,15 Aug 2014,European Championships,Zürich,SUI
+4×100 m relay,36.84,24.288,39.088,Nesta Carter Michael Frater Yohan Blake Usain Bolt,JAM,11 Aug 2012,Olympic Games,London,GBR
+4×200 m relay,1:18.63,22.759,36.627,Nickel Ashmeade Warren Weir Jermaine Brown Yohan Blake,JAM,24 May 2014,World Relays,Nassau,BAH
+4×400 m relay,2:54.29,20.535,33.048,Andrew Valmon Quincy Watts Butch Reynolds Michael Johnson,USA,22 Aug 1993,World Championships,Stuttgart,GER
+4×800 m relay,7:02.43,16.945,27.271,Joseph Mutua William Yiampoy Ismael Kombich Wilfred Bungei,KEN,25 Aug 2006,Memorial Van Damme,Brussels,BEL
+Distance medley relay,9:15.50,16.108,25.923,Kyle Merber Brycen Spratling Brandon Johnson Ben Blankenship,USA,3 May 2015,World Relays,Nassau,BAH
+4×1500 m relay,14:22.22,15.566,25.052,Collins Cheboi Silas Kiplagat James Kiplagat Magut Asbel Kiprop,KEN,25 May 2014,World Relays,Nassau,BAH
+Road relay 42.195 km,1:57:06.00,13.434,21.62,Josephat Ndambiri Martin Mathathi Daniel Muchunu Mwangi Mekubo Mogusu Onesmus Nyerre John Kariuki,KEN,23 Nov 2005,Chiba Ekiden,Chiba,JPN

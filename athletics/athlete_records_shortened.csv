@@ -1,0 +1,23 @@
+Event,Perf.,mph,km/h,Athlete(s),Athlete_Nationality,Date,Meeting,Location,Country
+100 m,9.58,23.35,37.58,Usain Bolt,JAM,16 Aug 2009,World Championships,Berlin,GER
+200 m,19.19,23.31,37.52,Usain Bolt,JAM,20 Aug 2009,World Championships,Berlin,GER
+400 m,43.03,20.79,33.47,Wayde van Niekerk,RSA,14 Aug 2016,Olympic Games,Rio de Janeiro,BRA
+800 m,1:40.91,17.734,28.54,David Rudisha,KEN,9 Aug 2012,Olympic Games,London,GBR
+1000 m,2:11.96,16.952,27.281,Noah Ngeny,KEN,5 Sep 1999,Rieti Meeting,Rieti,ITA
+1500 m,3:26.00,16.288,26.214,Hicham El Guerrouj,MAR,14 Jul 1998,Golden Gala,Rome,ITA
+Mile,3:43.13,16.134,25.965,Hicham El Guerrouj,MAR,7 Jul 1999,Golden Gala,Rome,ITA
+3000 m,7:20.67,15.229,24.508,Daniel Komen,KEN,1 Sep 1996,Rieti Meeting,Rieti,ITA
+110 m hurdles,12.80,19.22,30.94,Aries Merritt,USA,7 Sep 2012,Memorial Van Damme,Brussels,BEL
+400 m hurdles,45.94,19.477,31.345,Karsten Warholm,NOR,3 Aug 2021,Olympic Games,Tokyo,JPN
+3000 m steeplechase,7:53.63,14.169,22.803,Saif Saaeed Shaheen,QAT,3 Sep 2004,Memorial Van Damme,Brussels,BEL
+Pole vault,6.21 m,,,Armand Duplantis,SWE,24 Jul 2022,World Championships,Eugene,USA
+Long jump,8.95 m,,,Mike Powell,USA,30 Aug 1991,World Championships,Tokyo,JPN
+Triple jump,18.29 m,,,Jonathan Edwards,GBR,7 Aug 1995,World Championships,Gothenburg,SWE
+Hammer throw,86.74 m,,,Yuriy Sedykh,URS,30 Aug 1986,European Championships,Stuttgart,FRG
+50 km walk (road),3:32:33.00,8.77,14.114,Yohann Diniz,FRA,15 Aug 2014,European Championships,Zürich,SUI
+4×100 m relay,36.84,24.288,39.088,Nesta Carter Michael Frater Yohan Blake Usain Bolt,JAM,11 Aug 2012,Olympic Games,London,GBR
+4×200 m relay,1:18.63,22.759,36.627,Nickel Ashmeade Warren Weir Jermaine Brown Yohan Blake,JAM,24 May 2014,World Relays,Nassau,BAH
+4×400 m relay,2:54.29,20.535,33.048,Andrew Valmon Quincy Watts Butch Reynolds Michael Johnson,USA,22 Aug 1993,World Championships,Stuttgart,GER
+4×800 m relay,7:02.43,16.945,27.271,Joseph Mutua William Yiampoy Ismael Kombich Wilfred Bungei,KEN,25 Aug 2006,Memorial Van Damme,Brussels,BEL
+Distance medley relay,9:15.50,16.108,25.923,Kyle Merber Brycen Spratling Brandon Johnson Ben Blankenship,USA,3 May 2015,World Relays,Nassau,BAH
+4×1500 m relay,14:22.22,15.566,25.052,Collins Cheboi Silas Kiplagat James Kiplagat Magut Asbel Kiprop,KEN,25 May 2014,World Relays,Nassau,BAH
